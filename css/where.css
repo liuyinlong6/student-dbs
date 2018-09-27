@@ -1,0 +1,70 @@
+.box{
+	width: 800px;
+	height: 600px;
+	border: 1px solid #ddd;
+	margin: 20px auto;
+}
+.top{
+	width: 310px;
+	height: 50px;
+	margin: 0 auto;
+	cursor: pointer;
+	margin-top: 10px;
+}
+.top li{
+	width: 150px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	float: left;
+	margin-left: 80px;
+	font-size: 18px;
+	background-color: #e4dfdf;
+}
+#dengl{
+	background-color: #c1baba;
+}
+.foot{
+	width: 750px;
+	height: 500px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.one1{
+	margin-left: 155px;
+	margin-top: 30px;
+}
+.yanz{
+	width: 250px;
+	height: 30px;
+	margin-left: 173px;
+	margin-top: 30px;
+	position: relative;
+}
+#code_btn{
+	width: 110px;
+	height: 45px;
+	color: blue;
+	position: absolute;
+	top:-11px;
+	left: 210px;
+	font-size: 35px;
+	border-width: bold;
+	border: 1px solid gray;
+}
+#cha{
+	width: 100px;
+	height: 30px;
+	margin-left: 182px;
+	margin-top: 30px;
+}
+.yz{
+	margin-left: 153px;
+}
+.mim{
+	margin: 10px 10px;
+}
+.zou{
+	margin-top: -352px;
+	margin-left: 164px;
+}
